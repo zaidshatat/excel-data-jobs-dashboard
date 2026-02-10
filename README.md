@@ -20,7 +20,7 @@ This project is an interactive Excel dashboard that analyzes data science job po
 ## Dashboard preview
 
 ### Executive Overview
-![Executive Overview](executive-overview.png)
+![Executive Overview](dashboard_screen1.png)
 
 ### Trends & Insights
-![Trends](trends-and-insights.png)
+![Trends](dashboard_screen2.png)
