@@ -14,8 +14,8 @@ This project is an interactive Excel dashboard that analyzes data science job po
 
 ## Tools used
 - Microsoft Excel
-- Pivot Tables & Pivot Charts
-- Slicers
+- Excel Functions & Formulas
+- Manual Filtering and Data Organization
 
 ## Dashboard preview
 
